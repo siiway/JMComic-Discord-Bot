@@ -1,4 +1,4 @@
-flask
-pytz
-json5
-python-dotenv
+# 一切的基础
+discord.py
+# 斜杠指令
+discord-py-slash-command
